@@ -2,7 +2,7 @@
 
 A Single Page Application (SPA) skeleton based on React 16.4.1
 It contains everything, (because eventually every CDN fails, eventually), but uses current CDNs for performance.
-Layout is orchestrateed in CSS by {twitter} Bootstrap
+Layout is orchestrated in CSS by {twitter} Bootstrap
 
 
 ## Why?
@@ -19,7 +19,7 @@ It is the anti-nodes where the vibration and energy exist.
 
 MIT - see included file
 
-## Depencencies
+## Dependencies
 
 The included build.sh script requires minify and has only been tested with:
 
@@ -38,4 +38,4 @@ Port this to https://mithril.js.org/ to {confirmation bias} show how much faster
  - 2019 "10 Things I Regret About Node.js" - Ryan Dahl, author of Node.js
  - 2021 People are writing python to "Compare the contents of your hosted and proxy repositories for coordinate collisions" https://github.com/sonatype-nexus-community/repo-diff
 have been."
- - 2022 - node-ipc has "protest ware" added by the maintiner [which is accused of being an immature act]
+ - 2022 - node-ipc has "protest ware" added by the maintainer [which is accused of being an immature act]
